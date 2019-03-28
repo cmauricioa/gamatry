@@ -2725,7 +2725,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   
 }
 #tweets .about-wrap {
-  max-width: 950px;
+  max-width: 650px;
 }
 #tweets span {
   color: DodgerBlue;
