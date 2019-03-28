@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'icomoon';
-    src:    url('http://weddingsbymc.com/mauricio/css/micons/fonts/icomoon.eot?jo2z5t');
-    src:    url('http://weddingsbymc.com/mauricio/css/micons/fonts/icomoon.eot?jo2z5t#iefix') format('embedded-opentype'),
-        url('http://weddingsbymc.com/mauricio/css/micons/fonts/icomoon.ttf?jo2z5t') format('truetype'),
-        url('http://weddingsbymc.com/mauricio/css/micons/fonts/icomoon.woff?jo2z5t') format('woff'),
-        url('http://weddingsbymc.com/mauricio/css/micons/fonts/icomoon.svg?jo2z5t#icomoon') format('svg');
+    src:    url('https://rawcdn.githack.com/cmauricioa/gamatry/5883f0539f6f19cb526b6645223908927adb953d/icomoon.eot?jo2z5t');
+    src:    url('https://rawcdn.githack.com/cmauricioa/gamatry/5883f0539f6f19cb526b6645223908927adb953d/icomoon.eot?jo2z5t#iefix') format('embedded-opentype'),
+        url('https://rawcdn.githack.com/cmauricioa/gamatry/5883f0539f6f19cb526b6645223908927adb953d/icomoon.ttf?jo2z5t') format('truetype'),
+        url('https://rawcdn.githack.com/cmauricioa/gamatry/5883f0539f6f19cb526b6645223908927adb953d/icomoon.woff?jo2z5t') format('woff'),
+        url('https://rawcdn.githack.com/cmauricioa/gamatry/5883f0539f6f19cb526b6645223908927adb953d/icomoon.svg?jo2z5t#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
 }
